@@ -1,0 +1,6 @@
+include ':simpledemo1_2'
+include ':simpledemo1_1'
+include ':simple1_12'
+include ':app:simple1_1'
+include ':app'
+rootProject.name = "openglesDemo"
